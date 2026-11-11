@@ -1,0 +1,3 @@
+# El programa solo usa la biblioteca estándar de Python 3.8+.
+# PyInstaller se necesita únicamente para generar el ejecutable.
+pyinstaller>=6.0
